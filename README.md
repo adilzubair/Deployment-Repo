@@ -29,10 +29,10 @@ The deployed application is hosted at [Iris Detection Model](https://irisdetecti
 ## Files
 
 - `prediction.py`: Contains the function to make predictions based on user input.
-- `train.py`: Script to train the machine learning model.
+- `app.py`: Script to train the machine learning model.
 - `requirements.txt`: Lists the required dependencies.
 - `rf_model.sav`: Saved trained Random Forest Classifier model.
-- `data/iris.csv`: Iris dataset used for training.
+- `iris.csv`: Iris dataset used for training.
 
 ## Usage
 
